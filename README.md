@@ -41,7 +41,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/4NUR46](https://github.com/4NUR46)
 
-- 💬 Ask me about **_`ython`_**
+- 💬 Ask me about **_`Python`_**
 
 - 📫 How to reach me **anurag.ces016@gmail.com**
 
