@@ -10,7 +10,11 @@
 
 
 
-<p align="center"> <img src="https://media.tenor.com/images/a8ee060f96a634e680ac658b4bda9e47/tenor.gif" alt="4nur46" /> </p>
+<p align="center" float="left">
+
+<img src="https://c.tenor.com/lEWZyfwK0u0AAAAj/miku-hatsune.gif" alt="anu" />
+
+</p>
 
 <p align="center" float="left">
 
@@ -61,14 +65,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4nur46&show_icons=true&locale=en" alt="4nur46" /></p>
 
 
+<p align="center"> <img src="https://media.tenor.com/images/a8ee060f96a634e680ac658b4bda9e47/tenor.gif" alt="4nur46" /> </p>
 
-
-
-<p align="center" float="left">
-
-<img src="https://c.tenor.com/lEWZyfwK0u0AAAAj/miku-hatsune.gif" alt="anu" />
-
-</p>
 
 
 <!---
