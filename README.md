@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-<h1 align="center" color="Blue">Hi 👋, I'm Anurag </h1>
+<h1 align="center" color="Blue">Hi 👋 I'm Anurag </h1>
 <h3 align="center">A passionate frontend and backend developer from India
 <img class="embeddedObject" src="https://content.screencast.com/users/fg-a/folders/world-flags/media/72ef25eb-15be-46fd-b2d5-96196509b6de/indiaC.gif" width="68" height="50" border="0" alt="Clipart" /> </h3>
 
