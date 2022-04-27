@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 --->
 <h1 align="center" color="Blue">Hi 👋, I'm Anurag </h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate frontend and backend developer from India 🇮🇳 </h3>
 
 
 
