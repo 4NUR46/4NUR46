@@ -27,9 +27,9 @@
 
 <h3 align="left">My Other Accounts:</h3>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" />](https://linkedin.com/in/anur46)
-[<img align="left" alt="Stack Overflow" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />](https://stackoverflow.com/users/15284163)
-[HackerRank](https://www.hackerrank.com/anuragcs)
+- [LinkedIn](https://linkedin.com/in/anur46)
+- [Stack Overflow](https://stackoverflow.com/users/15284163)
+- [HackerRank](https://www.hackerrank.com/anuragcs)
 
 <h3 align="left">Languages:</h3>
 
