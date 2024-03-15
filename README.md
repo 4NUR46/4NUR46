@@ -30,6 +30,7 @@
 - [LinkedIn](https://linkedin.com/in/anur46)
 - [Stack Overflow](https://stackoverflow.com/users/15284163)
 - [HackerRank](https://www.hackerrank.com/anuragcs)
+- [Portfolio](https://app.flexiple.com/resume/1698737031701x372638026236381950?t=1698661094433x583803932626911200)
 
 <h3 align="left">Languages:</h3>
 
