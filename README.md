@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **New Job Opportunities**
 
-- 👨‍💻 All of my public projects are available at [My GitHub]([https://github.com/4NUR46](https://github.com/4NUR46?tab=repositories))
+- 👨‍💻 All of my public projects are available at [My GitHub Repositories](https://github.com/4NUR46](https://github.com/4NUR46?tab=repositories)
 
 - 💬 Ask me about **Python, Node.js, React**
 
